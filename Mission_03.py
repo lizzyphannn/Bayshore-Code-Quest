@@ -1,0 +1,6 @@
+num1 = input("Pick a number: ")
+num2 = input("Pick another number: ")
+num3 = input("Pick another number: ")
+num4 = input("Pick another number: ")
+result = int(num1) * int(num2) * int(num3) * int(num4)
+print("The product of 1 * 2 * 3 * 4 is " + str(result))
